@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 Presentacion", "1.0 Presentacion", "{336A0FBF-1C9A-4FA1-BED7-67B945375D1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 Servicios Distribuidos", "2.0 Servicios Distribuidos", "{C5350419-2177-4FCF-9796-B60CFE2CABAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 Aplicacion", "3.0 Aplicacion", "{9157A939-B02B-4B9A-8326-80445704F61E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 Dominio", "4.0 Dominio", "{48277271-D4E0-4355-ABE0-4432CE01759C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 Infraestructura", "5.0 Infraestructura", "{ACCB275B-4F3A-427E-A051-726D46BEF3C6}"
+	ProjectSection(SolutionItems) = preProject
+		Farsiman.Drogueria.PermisosControlados.Dominio.Core\Entidades_Bases\Repositorios\IRepositorio.cs = Farsiman.Drogueria.PermisosControlados.Dominio.Core\Entidades_Bases\Repositorios\IRepositorio.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.Dominio", "Farsiman.Drogueria.PermisosControlados.Dominio\Farsiman.Drogueria.PermisosControlados.Dominio.csproj", "{61E3016E-1917-46F0-8F97-A046B3242D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.Dominio.Core", "Farsiman.Drogueria.PermisosControlados.Dominio.Core\Farsiman.Drogueria.PermisosControlados.Dominio.Core.csproj", "{8C149C95-EEC9-4BA7-9519-461C14C4B0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.Infraestructura", "Farsiman.Drogueria.PermisosControlados.Infraestructura\Farsiman.Drogueria.PermisosControlados.Infraestructura.csproj", "{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.Infraestructura.Core", "Farsiman.Drogueria.PermisosControlados.Infraestructura.Core\Farsiman.Drogueria.PermisosControlados.Infraestructura.Core.csproj", "{C05D94F8-C320-4716-9B0E-84969FB55DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.Aplicacion", "Farsiman.Drogueria.PermisosControlados.Aplicacion\Farsiman.Drogueria.PermisosControlados.Aplicacion.csproj", "{B99C3B48-8400-4C99-8147-A42E7E27CB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.Aplicacion.Core", "Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.csproj", "{857EE3F5-6596-4355-B4A1-2B21BBC6C1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsiman.Drogueria.PermisosControlados.WebApi", "Farsiman.Drogueria.PermisosControlados.WebApi\Farsiman.Drogueria.PermisosControlados.WebApi.csproj", "{BC27C594-5EF4-4BFD-A214-B68D255569F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E3016E-1917-46F0-8F97-A046B3242D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E3016E-1917-46F0-8F97-A046B3242D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E3016E-1917-46F0-8F97-A046B3242D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E3016E-1917-46F0-8F97-A046B3242D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C149C95-EEC9-4BA7-9519-461C14C4B0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C149C95-EEC9-4BA7-9519-461C14C4B0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C149C95-EEC9-4BA7-9519-461C14C4B0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C149C95-EEC9-4BA7-9519-461C14C4B0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05D94F8-C320-4716-9B0E-84969FB55DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05D94F8-C320-4716-9B0E-84969FB55DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05D94F8-C320-4716-9B0E-84969FB55DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05D94F8-C320-4716-9B0E-84969FB55DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99C3B48-8400-4C99-8147-A42E7E27CB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99C3B48-8400-4C99-8147-A42E7E27CB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99C3B48-8400-4C99-8147-A42E7E27CB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99C3B48-8400-4C99-8147-A42E7E27CB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857EE3F5-6596-4355-B4A1-2B21BBC6C1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857EE3F5-6596-4355-B4A1-2B21BBC6C1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857EE3F5-6596-4355-B4A1-2B21BBC6C1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857EE3F5-6596-4355-B4A1-2B21BBC6C1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC27C594-5EF4-4BFD-A214-B68D255569F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC27C594-5EF4-4BFD-A214-B68D255569F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC27C594-5EF4-4BFD-A214-B68D255569F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC27C594-5EF4-4BFD-A214-B68D255569F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61E3016E-1917-46F0-8F97-A046B3242D9F} = {48277271-D4E0-4355-ABE0-4432CE01759C}
+		{8C149C95-EEC9-4BA7-9519-461C14C4B0C5} = {48277271-D4E0-4355-ABE0-4432CE01759C}
+		{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA} = {ACCB275B-4F3A-427E-A051-726D46BEF3C6}
+		{C05D94F8-C320-4716-9B0E-84969FB55DEF} = {ACCB275B-4F3A-427E-A051-726D46BEF3C6}
+		{B99C3B48-8400-4C99-8147-A42E7E27CB9D} = {9157A939-B02B-4B9A-8326-80445704F61E}
+		{857EE3F5-6596-4355-B4A1-2B21BBC6C1D6} = {9157A939-B02B-4B9A-8326-80445704F61E}
+		{BC27C594-5EF4-4BFD-A214-B68D255569F3} = {C5350419-2177-4FCF-9796-B60CFE2CABAB}
+	EndGlobalSection
+EndGlobal

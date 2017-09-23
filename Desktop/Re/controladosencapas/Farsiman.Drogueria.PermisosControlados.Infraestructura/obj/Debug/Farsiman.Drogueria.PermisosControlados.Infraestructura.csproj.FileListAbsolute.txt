@@ -1,0 +1,17 @@
+F:\L\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\obj\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.csprojResolveAssemblyReference.cache
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\obj\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.csprojResolveAssemblyReference.cache
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\obj\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\obj\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.dll.config
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\EntityFramework.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\EntityFramework.xml
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Infraestructura\bin\Debug\EntityFramework.SqlServer.xml

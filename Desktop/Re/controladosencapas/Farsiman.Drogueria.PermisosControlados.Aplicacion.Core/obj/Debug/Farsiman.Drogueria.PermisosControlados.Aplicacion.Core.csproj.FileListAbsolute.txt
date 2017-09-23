@@ -1,0 +1,8 @@
+F:\L\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.dll
+F:\L\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.pdb
+F:\L\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.dll
+F:\L\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.pdb

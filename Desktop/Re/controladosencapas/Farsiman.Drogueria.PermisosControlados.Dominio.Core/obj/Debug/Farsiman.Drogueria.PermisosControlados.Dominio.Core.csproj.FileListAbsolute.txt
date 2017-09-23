@@ -1,0 +1,4 @@
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Dominio.Core\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Dominio.Core\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Dominio.Core\obj\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Dominio.Core\obj\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.pdb

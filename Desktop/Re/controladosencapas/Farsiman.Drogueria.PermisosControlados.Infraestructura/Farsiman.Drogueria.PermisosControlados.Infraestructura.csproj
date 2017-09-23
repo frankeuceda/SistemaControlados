@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14B4FF67-2EDB-40BE-A33D-EBCCF0C1E0AA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Farsiman.Drogueria.PermisosControlados.Infraestructura</RootNamespace>
+    <AssemblyName>Farsiman.Drogueria.PermisosControlados.Infraestructura</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solicitudes\Mapeos\PrevisionesMap.cs" />
+    <Compile Include="Solicitudes\Mapeos\BaseMapSolicitudes.cs" />
+    <Compile Include="Solicitudes\Mapeos\BaseMap.cs" />
+    <Compile Include="Solicitudes\UnitOfWorkPermisosProductosControlados.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Farsiman.Drogueria.PermisosControlados.Dominio.Core\Farsiman.Drogueria.PermisosControlados.Dominio.Core.csproj">
+      <Project>{8c149c95-eec9-4ba7-9519-461c14c4b0c5}</Project>
+      <Name>Farsiman.Drogueria.PermisosControlados.Dominio.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Farsiman.Drogueria.PermisosControlados.Dominio\Farsiman.Drogueria.PermisosControlados.Dominio.csproj">
+      <Project>{61e3016e-1917-46f0-8f97-a046b3242d9f}</Project>
+      <Name>Farsiman.Drogueria.PermisosControlados.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Farsiman.Drogueria.PermisosControlados.Infraestructura.Core\Farsiman.Drogueria.PermisosControlados.Infraestructura.Core.csproj">
+      <Project>{c05d94f8-c320-4716-9b0e-84969fb55def}</Project>
+      <Name>Farsiman.Drogueria.PermisosControlados.Infraestructura.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

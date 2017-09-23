@@ -1,0 +1,16 @@
+F:\L\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Infraestructura.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\Farsiman.Drogueria.PermisosControlados.Dominio.Core.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\obj\Debug\Farsiman.Drogueria.PermisosControlados.Aplicacion.pdb
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\feuceda.GRUPOFARSIMAN\Desktop\DESARROLLO EN N CAPAS\PermisosProductosControlados\Farsiman.Drogueria.PermisosControlados.Aplicacion\bin\Debug\EntityFramework.xml
